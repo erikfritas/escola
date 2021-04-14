@@ -1,3 +1,5 @@
+# Pra falar a verdade não me lembro o nome deste calculo só sei que a forma de calcula-lo é esse mesmo
+
 # F = K . Q1 . Q2
 #     -----------
 #         d2
