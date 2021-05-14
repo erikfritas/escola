@@ -1,3 +1,4 @@
+# não está pronto, só comecei o projeto
 import pygame as pyg
 FPS = 60
 clock = pyg.time.Clock()
